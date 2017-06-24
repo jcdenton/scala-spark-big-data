@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 wikipedia/src/main/resources/wikipedia
 stackoverflow/src/main/resources/stackoverflow
+timeusage/src/main/resources/timeusage
 
 ### Scala template
 *.class
